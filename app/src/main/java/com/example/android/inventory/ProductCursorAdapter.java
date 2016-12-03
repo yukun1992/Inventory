@@ -114,8 +114,10 @@ public class ProductCursorAdapter extends CursorAdapter {
         }
         sell_timeTextView.setText(String.valueOf(productSell_time));
 
-
     }
+
+
+    
 
 
 }
